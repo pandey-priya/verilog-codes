@@ -9,3 +9,7 @@ MAGNITUDE COMPARATOR :
 DIGITAL CLOCK :
 
 <img width="1440" alt="image" src="https://github.com/pandey-priya/verilog-codes/assets/118142904/09d45d9c-f871-4d7c-95c1-032b8f32681f">
+
+COUNT NUMBER OF ONES :
+
+![image](https://github.com/pandey-priya/verilog-codes/assets/118142904/4d923ec7-89fc-4daf-8ca5-03df5a82bf7a)
